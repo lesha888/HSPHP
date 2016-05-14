@@ -1,5 +1,5 @@
 {
-    "name": "tz-lom/hsphp",
+    "name": "lesha888/hsphp",
     "description": "Client library for MySQL HandlerSocket extension.",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
         "mysql", "mariadb", "percona", "handler socket", "HandlerSocket", "nosql"
     ],
     "support": {
-        "source": "http://github.com/tz-lom/HSPHP"
+        "source": "http://github.com/lesha888/HSPHP"
     },
     "autoload": {
         "psr-0" : {
